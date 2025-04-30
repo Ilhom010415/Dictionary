@@ -1,5 +1,11 @@
 # Dictionary
 # Bu kod ma'lumotlarni oladi va uni lo'g'at ko'rinishida saqlaydi
+
+
+
+
+
+
 from datetime import date
 
 def foydalanuvchi_anketasi():
